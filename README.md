@@ -2,7 +2,7 @@
 TIMELINE: Exhaustive Annotation of Temporal Relations Supporting the Automatic Ordering of Events in News Articles
 Corpus annotation: 
 
-(1)Getting the raw text of the News Articles : 
+(1)Getting the raw text of the news articles : 
 The corpus consists of 48 news articles collected from the LexisNexis library. You can find in the (annotated articles.csv) file the URL/API permalink, article title and the publication date of every article. 
 
 To download the raw text of a specific news article, click on the URL link of a specific article in the (annotated articles.csv) file, and the link will direct you to the article page. Then, you can click on the download icon in the top right corner of the page, choose the document format and click download. 
