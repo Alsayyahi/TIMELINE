@@ -1,7 +1,6 @@
 ﻿Step-by-step instructions to replicate the results reported in the paper on TIMELINE corpus:
 
-
-1. Given the annotated corpus, the data have been pre-processed to be accepted by the baseline models we used (as illustrated in the paper). Each relation out of () relations that have been tagged (as listed in annotated_relations.csv) has been processed to be be in the following formate:
+1. Given the annotated corpus, the data have been pre-processed to be accepted by the baseline models we used (as illustrated in the paper). Each sample has been processed to be in the following format:
 [doc_id: "Document 1",
 sample_id: "L0",
 pair: ["ei1", "ei2"],
