@@ -19,7 +19,7 @@ predict index?: True
 
 2. The models can be found from this GitHub link: https://github.com/PlusLabNLP/Deep-Structured-EveEveTemp
 
-3. Once the models are downloaded into your machine, place the three pickle files located in the forward folder in the following directory: (/output_data/matres_output/all_bertemb) and place the three pickle files located in the backward folder in the following directory: (/output_data/matres_output/all_backward_bertemb).
+3. Once the models are downloaded into your machine, download the three pickle files from this link: https://drive.google.com/drive/folders/1rnZ-RkiYOTBc5ufaU6vbWPdPkMU1NBn2?usp=sharing,and place them in the following directory: (/output_data/matres_output/all_bertemb), and download the three pickle files from this link: https://drive.google.com/drive/folders/1Z9SDGuz6XNpXwu_9N1_oWkUvQxX0sQaW?usp=sharing, and place them in the following directory: (/output_data/matres_output/all_backward_bertemb).
 Note: the main difference between forward data and backward data is the labels are reversed (the label is reversed, and the value of the reversed label? is (false) in the forward data and is (true) in the backward data). For further explanation, refer to the paper that proposes these models (Deep Structured Neural Network for Event Temporal Relation Extraction, 2019)
 
 4. Go to the code directory and run the following command:
