@@ -1,0 +1,606 @@
+﻿Document ID,Sentence ID,First word,Last word
+Document001,S1,China's,writes).
+Document001,S2,New,survey. 
+Document001,S3,It ,outbreak.
+Document001,S4,The,month.
+Document001,S5,It,ago.
+Document001,S6,The ,bust.
+Document001,S7,The,2008
+Document001,S8,Zhengsheng,epidemic.
+Document001,S9,""" The ",said.
+Document001,S10,Car,market.
+Document001,S11,Passenger,Association.
+Document001,S12,Yesterday,decline. 
+Document001,S13,It,February.
+Document002,S1,The,writes).
+Document002,S2,Gross,forecasts.
+Document002,S3,Economists,"out""."
+Document002,S4,Their,unemployed.
+Document002,S5,The,Britain.
+Document002,S6,In ,Thursday.
+Document002,S7,Morgan,"mid-April""."
+Document002,S8,At ,said.
+Document002,S9,They,contraction.
+Document002,S10,Unemployment,cent.
+Document002,S11,Cumulative,million.
+Document002,S12,In,year.
+Document003,S1,Shareholders,War.
+Document003,S2,The,price.
+Document003,S3,Echoing,economy.
+Document003,S4,Investors,boardrooms.
+Document003,S5,Quoted,group.
+Document003,S6,The,dividends.
+Document003,S7,The,income.
+Document003,S8,They,shares.
+Document003,S9,BT,year.
+Document003,S10,"""Shell",Europe.
+Document003,S11,Assuming,Link.
+Document003,S12,Shareholders,dividends.
+Document003,S13,Holders,Link.
+Document003,S14,Barclays,years.
+Document004,S1,More,package.
+Document004,S2,A survey,crisis.
+Document004,S3,The,recession.
+Document004,S4,To ,"""surcharge"". "
+Document004,S5,On ,extra. 
+Document004,S6,Every ,billion.
+Document004,S7,An ,parliament.
+Document004,S8,"However, ","situation"". "
+Document004,S9,Seventy,contribute.
+Document004,S10,The ,1996
+Document004,S11,Tom,journey.
+Document004,S12,Debate,filled.
+Document004,S13,"""While",path.
+Document004,S14,If ,"bit."""
+Document004,S15,If ,"bit."""
+Document005,S1,The,writes).
+Document005,S2,"Heathrow, ",year-on-year.
+Document005,S3,June,period. 
+Document005,S4,Shorthaul,month.
+Document005,S5,Heathrow,policy.
+Document005,S6,Ministers,Italy.
+Document005,S7,"However, ",normality.
+Document005,S8,Red,countries.
+Document005,S9,"""Travel",said.
+Document005,S10,"""We're","plane."""
+Document005,S11,Repeating,"up."""
+Document005,S12,Mr ,economy.
+Document005,S13,Heathrow ,isolating.
+Document005,S14,Heathrow,government.
+Document005,S15,More,year-on-year.
+Document006,S1,Sterling,US.
+Document006,S2,"Fitch, ",plan.
+Document006,S3,The ,states.
+Document006,S4,The,month. 
+Document006,S5,It ,Refinitiv.
+Document006,S6,Many,currency.
+Document006,S7,Bank,sterling.
+Document006,S8,"""The ",said.
+Document006,S9,Ten-year ,markets.
+Document006,S10,Ten-year ,data.
+Document006,S11,The,reintroduced. 
+Document006,S12,The,cent.
+Document006,S13,The,bloc.
+Document006,S14,"Germany, ",US.
+Document007,S1,The ,high.
+Document007,S2,Activity,returns.
+Document007,S3,The ,August.
+Document007,S4,Readings,growth.
+Document007,S5,The,reductions.
+Document007,S6,Factory,51
+Document007,S7,Large,coronavirus. 
+Document007,S8,"Nevertheless,",States.
+Document007,S9,The,month.
+Document007,S10,The,2018
+Document007,S11,In,cent.
+Document007,S12,"However, ",respectively. 
+Document007,S13,The,holiday.
+Document007,S14,Wall,"28,430.05."
+Document007,S15,All,vaccine.
+Document008,S1,The,suggested.
+Document008,S2,The,58.8.
+Document008,S3,Although,55.1. 
+Document008,S4,Any,economy.
+Document008,S5,HIS,scheme.
+Document008,S6,Growth,sector.
+Document008,S7,Those,business. 
+Document008,S8,"However, ",momentum.
+Document008,S9,The,respectively.
+Document008,S10,Samuel,virus.
+Document008,S11,The ,"weeks."""
+Document008,S12,The,downturn.
+Document008,S13,Economists,period.
+Document008,S14,"However, ",sustained.
+Document008,S15,The,reported.
+Document008,S16,Although,cautious.
+Document008,S17,Chris,"downside."""
+Document009,S1,The,"tunnel""."
+Document009,S2,Andrew,"like."""
+Document009,S3,He ,standards.
+Document009,S4,Economists,inflation.
+Document009,S5,Only,improve.
+Document009,S6,"However, ",decade.
+Document009,S7,Mr,change.
+Document009,S8,Successful,said.
+Document009,S9,His ,"economy]."""
+Document009,S10,The,"economy""."
+Document009,S11,But,coming.
+Document009,S12,The ,target.
+Document010,S1,investment ,again.
+Document010,S2,Fresh,weeks.
+Document010,S3,The,"19,844.81."
+Document010,S4,The ,year. 
+Document010,S5,Investor,China.
+Document010,S6,The,Union. 
+Document010,S7,Ian ,2016
+Document010,S8,With ,"again."""
+Document010,S9,Goldman ,soon.
+Document010,S10,The ,forecast.
+Document010,S11,"Citigroup, ",British.
+Document010,S12,Caroline ,"6,800.00"
+Document010,S13,Wall,stimulus.
+Document010,S14,The,"12,355.11."
+Document010,S15,It ,January. 
+Document010,S16,The,year.
+Document010,S17,The,cent.
+Document010,S18,France's,cent.
+Document011,S1,Traders,recovery.
+Document011,S2,Sterling,(EURO)1.1325.
+Document011,S3,It,week.
+Document011,S4,With,bounce.
+Document011,S5,Bank,recovery.
+Document011,S6,The,$1.50.
+Document011,S7,"""If",said.
+Document011,S8,"""Also,","sterling."""
+Document011,S9,Mr,unlikely. 
+Document011,S10,Andrew,"yet"". "
+Document011,S11,He,"out."""
+Document011,S12,Andy,year.
+Document012,S1,The,report.
+Document012,S2,Hardship,Authority.
+Document012,S3,The,population.
+Document012,S4,General,War.
+Document012,S5,He,fallout.
+Document012,S6,"However,",eased.
+Document012,S7,Haldane,vaccines.
+Document012,S8,The,adults.
+Document012,S9,While,so.
+Document012,S10,"However,",off.
+Document012,S11,The,October.
+Document013,S1,New,year.
+Document013,S2,Initial,data.
+Document013,S3,While,March.
+Document013,S4,Weekly,ahead.
+Document013,S5,Applications,crisis.
+Document013,S6,Ron,succeeding.
+Document013,S7,He,"here!"""
+Document013,S8,Lindsey,"woods""."
+Document013,S9,She,"time."""
+Document013,S10,The,cent.
+Document013,S11,Expansion,cent.
+Document013,S12,The,industries.
+Document013,S13,It,2021
+Document014,S1,Improving,year.
+Document014,S2,Brent,US.
+Document014,S3,The,forecast.
+Document014,S4,"However,",demand.
+Document014,S5,It,forecast.
+Document014,S6,That,2019
+Document014,S7,Brent,supplies.
+Document014,S8,"""A year",said.
+Document014,S9,"""Overhang","footing."""
+Document014,S10,"However,",Brazil.
+Document015,S1,Britain's,warned.
+Document015,S2,The,cent.
+Document015,S3,This,cent.
+Document015,S4,NIESR,economy.
+Document015,S5,Jagjit,"year."""
+Document015,S6,NIESR,institute.
+Document015,S7,It,Fund.
+Document015,S8,It,year.
+Document015,S9,Adrian,"struggling."""
+Document016,S1,The,says.
+Document016,S2,In,2023
+Document016,S3,Other,quickly.
+Document016,S4,The,year.
+Document016,S5,It,War.
+Document016,S6,The,economy.
+Document016,S7,Consumer,rebound.
+Document016,S8,"""The",said.
+Document016,S9,"""Despite","2023."""
+Document016,S10,Hannah,crisis.
+Document016,S11,Historic,"consumers."""
+Document017,S1,A leading,trade.
+Document017,S2,Braemar,sales.
+Document017,S3,"""Until",yesterday.
+Document017,S4,Its,quarter.
+Document017,S5,Shares,night.
+Document017,S6,They,January.
+Document017,S7,Last,hit.
+Document017,S8,The,"come""."
+Document017,S9,While,trade.
+Document017,S10,Adam,"prepared."""
+Document017,S11,Stock,issues.
+Document017,S12,Hutchison,activities.
+Document017,S13,"Chi-Med,",affected.
+Document017,S14,"""Our",said.
+Document017,S15,Robert,there.
+Document017,S16,Alan,"February""."
+Document018,S1,Serie,stipulations.
+Document018,S2,A row,Monday.
+Document018,S3,The,Monday.
+Document018,S4,The,demand.
+Document018,S5,It,tests.
+Document018,S6,It,testing.
+Document018,S7,Vincenzo,"safety."""
+Document018,S8,Juventus,play.
+Document018,S9,Some,remaining.
+Document018,S10,Bundesliga,terminated.
+Document018,S11,The,outbreak.
+Document018,S12,Nine,line.
+Document018,S13,He,tiers. 
+Document018,S14,"However,",yesterday.
+Document018,S15,"""This",said.
+Document019,S1,Foreign,restrictions.
+Document019,S2,Grant,Britain's.
+Document019,S3,The,France.
+Document019,S4,Portugal,cases.
+Document019,S5,The,away.
+Document019,S6,There,delay.
+Document019,S7,The,Spain.
+Document019,S8,The,cent.
+Document019,S9,The,open.
+Document019,S10,Over,holidays.
+Document019,S11,Cross-government,tomorrow.
+Document019,S12,Labour,arrivals.
+Document020,S1,Almost,Spain.
+Document020,S2,Shares,travel.
+Document020,S3,The,weeks.
+Document020,S4,The,islands.
+Document020,S5,This,valid.
+Document020,S6,Easy,(EURO)10.48.
+Document020,S7,Shares,301p.
+Document020,S8,Dart,£33.00 
+Document020,S9,Intercontinental,£36.19. 
+Document020,S10,"Whitbread,",£22.27.
+Document020,S11,Another,port.
+Document020,S12,The,873¼p.
+Document020,S13,On,274p.
+Document020,S14,Shares,221½p.
+Document021,S1,The,arrivals.
+Document021,S2,The,programme.
+Document021,S3,The,quarantine.
+Document021,S4,Passengers,travel.
+Document021,S5,There,list. 
+Document021,S6,In,20
+Document021,S7,It,France.
+Document021,S8,The,regime.
+Document021,S9,Last,cases.
+Document021,S10,"However,",quarantine.
+Document021,S11,Today,approval.
+Document021,S12,Heathrow,clear.
+Document021,S13,It,government.
+Document021,S14,John,"jobless."""
+Document022,S1,Neil,today.
+Document022,S2,Christie,duty.
+Document022,S3,"Now,",evening.
+Document022,S4,"""We",Lennon.
+Document022,S5,"""Arsenal",confused.
+Document022,S6,We,same.
+Document022,S7,Celtic,club.
+Document022,S8,Now,others.
+Document022,S9,"""You","players."""
+Document022,S10,If,not.
+Document022,S11,"""He","can't."""
+Document023,S1,The,coronavirus.
+Document023,S2,Katya,asymptomatic.
+Document023,S3,Her,days.
+Document023,S4,The,link.
+Document023,S5,Jones,"one."""
+Document023,S6,Some,understood.
+Document023,S7,The,Saturday.
+Document023,S8,A spokeswoman,five.
+Document023,S9,The,"part."""
+Document023,S10,Adams,for.
+Document023,S11,"""But","for."""
+Document023,S12,Sarah,"show."""
+Document023,S13,Motsi,Germany.
+Document023,S14,She,weekend.
+Document023,S15,"Mabuse,","make-up."""
+Document023,S16,According,days.
+Document024,S1,Existing,believes.
+Document024,S2,Guidance,Europe.
+Document024,S3,Travellers,Covid-19.
+Document024,S4,The,"zero""."
+Document024,S5,"However,",exempt.
+Document024,S6,Although,England.
+Document024,S7,Those,period.
+Document024,S8,Aviation,abandoned.
+Document024,S9,The,groups.
+Document024,S10,It,assessment.
+Document025,S1,The,Park.
+Document025,S2,More,Covid-19.
+Document025,S3,All,confirmed.
+Document025,S4,Contact,case.
+Document025,S5,The,exposed.
+Document025,S6,As,area.
+Document025,S7,"""This","Open]."""
+Document025,S8,A total,today.
+Document025,S9,Players,earliest.
+Document025,S10,"Meanwhile,","this."""
+Document025,S11,The,7-6 (9-7).
+Document025,S12,Great,Trophy.
+Document025,S13,Johanna,Classic.
+Document026,S1,At,yesterday.
+Document026,S2,Matt,Italy.
+Document026,S3,Criticism,airports.
+Document026,S4,The,Europe.
+Document026,S5,The,UK.
+Document026,S6,The,sufferers.
+Document026,S7,This,workers.
+Document026,S8,Yesterday,distancing.
+Document026,S9,"However,",position.
+Document026,S10,"""We ",said.
+Document026,S11,"""The","here."""
+Document027,S1,Gareth,writes).
+Document027,S2,The,team.
+Document027,S3,"Foden,",protocols.
+Document027,S4,The,them.
+Document027,S5,"Southgate,",Denmark.
+Document027,S6,"""I",Tuesday.
+Document027,S7,"""I ","better."""
+Document027,S8,South,repeat.
+Document027,S9,The,hotel.
+Document027,S10,Under,locals.
+Document027,S11,The,12
+Document028,S1,Plans,markets.
+Document028,S2,Travel,demand.
+Document028,S3,The,uneasy.
+Document028,S4,Boris,"variant""."
+Document028,S5,Hotel,"6,638.85."
+Document028,S6,In,lower.
+Document028,S7,Hopes,pandemic.
+Document028,S8,"However,","2021""."
+Document029,S1,An elderly,flight.
+Document029,S2,Arthur,son. 
+Document029,S3,Cian,carer.
+Document029,S4,During,"£2,400.00 "
+Document029,S5,Siggins,airport.
+Document029,S6,Both,vaccinated.
+Document029,S7,"""Arthur","way."""
+Document029,S8,They,government.
+Document029,S9,They,refunded.
+Document029,S10,Reynolds,"days."""
+Document029,S11,Both,home.
+Document029,S12,The,cases.
+Document029,S13,"However,","virus."""
+Document030,S1,Opening,said.
+Document030,S2,Scotland,suit.
+Document030,S3,The,coronavirus.
+Document030,S4,"However,",weekend.
+Document030,S5,Figures ,positive.
+Document030,S6,A total,day.
+Document030,S7,So far ,"22,706.00"
+Document030,S8,Sturgeon,"elsewhere."""
+Document030,S9,She,"reseed""."
+Document030,S10,Sturgeon,"vaccine."""
+Document031,S1,"Tui,",loss.
+Document031,S2,Despite,"lists""."
+Document031,S3,"However,",yesterday.
+Document031,S4,Fritz,UK.
+Document031,S5,To cope,737s.
+Document031,S6,Joussen,travel.
+Document031,S7,"""Holidays",said.
+Document031,S8,The,recovery.
+Document031,S9,"""The",said.
+Document031,S10,His,before.
+Document031,S11,"""Due",investors.
+Document031,S12,The,September.
+Document032,S1,greece,vaccine.
+Document032,S2,Kyriakos,"youth""."
+Document032,S3,About,eligible.
+Document032,S4,russia,variant.
+Document032,S5,Officials,weekend.
+Document032,S6,Nationwide,worldwide.
+Document032,S7,india,limited.
+Document032,S8,The,infections.
+Document032,S9,china,Shenzhen.
+Document032,S10,The,said.
+Document032,S11,Nearly,case.
+Document033,S1,The,"shots""."
+Document033,S2,Oxford,September.
+Document033,S3,"However, ",longer.
+Document033,S4,"""All","time."""
+Document033,S5,The,licensed.
+Document033,S6,Sarah,guaranteed.
+Document033,S7,"""I",BBC.
+Document033,S8,Her,dangerous.
+Document033,S9,Public,site.
+Document033,S10,This,Covid-19.
+Document033,S11,Sir,"response."""
+Document033,S12,The,said.
+Document033,S13,The,jabs.
+Document034,S1,Scientists,treatment.
+Document034,S2,An injection,Astrazeneca.
+Document034,S3,Last,University.
+Document034,S4,It ,trials.
+Document034,S5,The,Telegraph.
+Document034,S6,Pascal,"antibody""."
+Document034,S7,Antibody,added.
+Document034,S8,Trials,UK.
+Document034,S9,The,chimpanzees.
+Document035,S1,Glaxosmithkline,Covid-19.
+Document035,S2,The,2021
+Document035,S3,The,effectiveness.
+Document035,S4,Adjuvants,antibodies.
+Document035,S5,This,vaccinated.
+Document035,S6,Glaxo,vaccines.
+Document035,S7,It,group.
+Document035,S8,"Glaxo,",100
+Document035,S9,Medicago,stake.
+Document035,S10,The,Covid-19.
+Document035,S11,Glaxo,diseases.
+Document035,S12,They,Quebec.
+Document035,S13,Thomas,"needed."""
+Document035,S14,Shares,£16.17.
+Document036,S1,Huawei,arm.
+Document036,S2,Oxford's,Vaccitech.
+Document036,S3,Its,company.
+Document036,S4,It,over.
+Document036,S5,That,flu.
+Document036,S6,Vaccitech's,researchers.
+Document036,S7,OSI's,drugmaker.
+Document036,S8,"Huawei,",shareholder.
+Document036,S9,It,Journal.
+Document036,S10,OSI,million. 
+Document036,S11,Oxford,drugmaker. 
+Document036,S12,The,year.
+Document037,S1,Scientists,trust.
+Document037,S2,The,serious.
+Document037,S3,It,Africa.
+Document037,S4,"However,",leaked.
+Document037,S5,"""Most",said.
+Document037,S6,"""The","ecosystem."""
+Document037,S7,An earlier,leaked.
+Document037,S8,The,reports.
+Document037,S9,A spokesman,"information""."
+Document037,S10,Cheryl,"process."""
+Document038,S1,Facemasks,said.
+Document038,S2,Andrew,implemented.
+Document038,S3,Injections,Mail.
+Document038,S4,"""Life",said.
+Document038,S5,"""We","July."""
+Document038,S6,Kate,"""slim""."
+Document038,S7,Ms,year.
+Document038,S8,Both,effectiveness.
+Document038,S9,This,approval.
+Document038,S10,The,Cambridge.
+Document038,S11,Ms,"winter""."
+Document038,S12,The,"virus."""
+Document039,S1,After,writes).
+Document039,S2,Pfizer,initiative.
+Document039,S3,But,overlooked.
+Document039,S4,"Instead,", April.
+Document039,S5,A paper,Center.
+Document039,S6,The,critics.
+Document039,S7,Lyz,"special."""
+Document039,S8,Gretchen,"arm."""
+Document039,S9,Parton,"has."""
+Document039,S10,In,"cure""."
+Document039,S11,She,donation.
+Document040,S1,A couple,writes).
+Document040,S2,Victor,"romance""."
+Document040,S3,They,decades.
+Document040,S4,Mr,bowling.
+Document040,S5,He,thing.
+Document040,S6,"""We've","it."""
+Document040,S7,Speaking,coronavirus.
+Document040,S8,"""It's",now.
+Document040,S9,Mrs,started.
+Document040,S10,Her,"life""."
+Document040,S11,He,coronavirus.
+Document040,S12,"""Our","life."""
+Document041,S1,The,week.
+Document041,S2,Officials,pandemic.
+Document041,S3,Britain's,Covid-19.
+Document041,S4,Britain,immunised.
+Document041,S5,They,up.
+Document041,S6,The,doses.
+Document041,S7,Moderna,"week""."
+Document041,S8,Vaccinations,campaign.
+Document041,S9,Poland's,treatment. 
+Document041,S10,There,drive.
+Document041,S11,In,yesterday.
+Document042,S1,The,study.
+Document042,S2,A government-backed,November-December.
+Document042,S3,"However,",smell.
+Document042,S4,From,grandchildren.
+Document042,S5,Sir,"Covid-19vaccine]."""
+Document042,S6,Younger,over-70s.
+Document042,S7,Those,people.
+Document043,S1,Dangerous,warned.
+Document043,S2,Christine,spread.
+Document043,S3,She,"sadly."""
+Document043,S4,She,2012
+Document043,S5,Eight,threat.
+Document043,S6,The,said.
+Document043,S7,Dr,people.
+Document043,S8,She,"stage."""
+Document043,S9,Pharmaceutical,antivirals.
+Document043,S10,We,coronaviruses. 
+Document043,S11,She,"that."""
+Document043,S12,HIV,NHS.
+Document043,S13,In the,year.
+Document044,S1,The,University.
+Document044,S2,"Astrazeneca,",months.
+Document044,S3,It,said.
+Document044,S4,On,September.
+Document044,S5,Ministers,London.
+Document044,S6,The,development.
+Document044,S7,Plans,trial.
+Document044,S8,Large,countries.
+Document044,S9,The,month.
+Document044,S10,"Astrazeneca,",doses.
+Document044,S11,The,vaccines.
+Document044,S12,Eight,Germany.
+Document044,S13,The,guaranteed.
+Document044,S14,AZD1222,Barda.
+Document044,S15,Astrazeneca,used.
+Document045,S1,Analysis,writes).
+Document045,S2,What,jab.
+Document045,S3,Soon,mortality.
+Document045,S4,"Crucially,",alone.
+Document045,S5,Later,cause.
+Document045,S6,Research,connection.
+Document045,S7,In a ,"vaccine."""
+Document045,S8,Roughly,microbe.
+Document045,S9,Even,everybody.
+Document045,S10,In,disease.
+Document045,S11,Any,Netherlands.
+Document046,S1,Promising,week.
+Document046,S2,"Travel,",June.
+Document046,S3,Shares,effective.
+Document046,S4,Analysts,effective.
+Document046,S5,"Astrazeneca,",billion.
+Document046,S6,Moderna,year.
+Document046,S7,Shares,£85.43.
+Document046,S8,On,York.
+Document046,S9,The,"3,626.91."
+Document046,S10,It,far.
+Document046,S11,The,November.
+Document046,S12,Seema,"2021""."
+Document046,S13,The,month.
+Document046,S14,"However,",mid-February.
+Document047,S1,Covid-19,year.
+Document047,S2,Flu,cases.
+Document047,S3,So,infected.
+Document047,S4,The,began.
+Document047,S5,A study,cent.
+Document047,S6,By,cent.
+Document047,S7,"However, ",others.
+Document047,S8,We,London.
+Document047,S9,There,dying.
+Document047,S10,By,patients.
+Document047,S11,The,diseases.
+Document047,S12,Professor ,die.
+Document047,S13,Covid-19,others.
+Document047,S14,That,people.
+Document047,S15,"However,",infections.
+Document047,S16,Like,sneezing. 
+Document047,S17,"However,",transmission.
+Document047,S18,"""It's",says.
+Document047,S19,"""We"," take."""
+Document047,S20,While,year.
+Document048,S1,One,23
+Document048,S2,Last,knowing.
+Document048,S3,Sir,ago.
+Document048,S4,They,London.
+Document048,S5,As,virus.
+Document048,S6,"However,", are.
+Document048,S7,Sir,coronavirus.
+Document048,S8,"However,","250,000.00"
+Document048,S9,Scientists,weeks.
+Document048,S10,The,released.
+Document048,S11,Sir,coronavirus.
+Document048,S12,He,successful.
+Document048,S13,But,deaths.
